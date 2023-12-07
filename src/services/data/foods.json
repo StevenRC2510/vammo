@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Burger", "cost": 34.222, "amount": 2 },
+  { "id": 2, "name": "French fries", "cost": 15, "amount": 4 },
+  { "id": 3, "name": "Hot dog", "cost": 5, "amount": 1 },
+  { "id": 4, "name": "Pizza", "cost": 50.123, "amount": 4 }
+]
